@@ -10,7 +10,7 @@
 
 ## 🌐 Socials
 
-[LinkedIn]([your-link](https://www.linkedin.com/in/navindu-fernando-38788b1b2/)) 
+[LinkedIn]([[your-link](https://www.linkedin.com/in/navindu-fernando-38788b1b2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B52dz0fM8T6CkfywR5pJtUA%3D%3D)]) 
 
 ---
 
