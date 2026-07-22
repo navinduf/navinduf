@@ -1,4 +1,4 @@
-# 👋 About Me
+# 🚀 About Me
 
 🎓 Software Engineering student at IIT / University of Westminster  
 💻 Interested in software development and emerging technologies  
@@ -10,16 +10,18 @@
 
 ## 🌐 Socials
 
-[LinkedIn]([[your-link](https://www.linkedin.com/in/navindu-fernando-38788b1b2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B52dz0fM8T6CkfywR5pJtUA%3D%3D)]) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navindu-fernando-38788b1b2/)
 
 ---
 
 ## 💻 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</p>
 
 ---
 
