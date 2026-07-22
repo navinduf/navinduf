@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinLopezz/MartinLopezz/main/wave.gif" width="30px"> About Me
+# <img src="https://raw.githubusercontent.com/MartinLopezz/MartinLopezz/main/wave.gif" width="30px"> 🚀About Me
 
 🎓 Software Engineering student at IIT / University of Westminster  
 💻 Interested in software development and emerging technologies  
