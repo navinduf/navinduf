@@ -1,7 +1,7 @@
 #  🚀About Me
 
 ```bash
-$ git commit -m "fixed everything, hopefully"
+git commit -m "fixed everything, hopefully"
 ```
 
 🎓 Software Engineering student at IIT / University of Westminster  
