@@ -1,5 +1,9 @@
 #  🚀About Me
 
+```bash
+$ git commit -m "fixed everything, hopefully"
+```
+
 🎓 Software Engineering student at IIT / University of Westminster  
 💻 Interested in software development and emerging technologies  
 🌱 Currently learning Java, data structures, and web development  
