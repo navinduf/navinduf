@@ -50,7 +50,4 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navinduf&show_icons=true&theme=github_dark&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navinduf&layout=compact&theme=github_dark&hide_border=true" width="48%">
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=navinduf&show_icons=true&theme=dark)
